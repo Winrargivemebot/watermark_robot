@@ -14,7 +14,7 @@ from PIL import Image  #* Python Imaging Library.
 init() #TODO: a initialization for use colorama.
 
 print(Fore.GREEN+"Starting ...\n"+Fore.RESET)
-api = "1595460418:AAHOf_-PrppgPU_jlQkGuoFo18tPDHAFNvc" #! Telegram Bot API.
+api = "6202051216:AAF-3qAH2FjjOIVXsDorB4taKcaJ6bgsmnE" #! Telegram Bot API.
 bot = telepot.Bot(api) #* a initialization for Telegram Bot.
 
 class ImageProcessor():
